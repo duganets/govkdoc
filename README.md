@@ -1,6 +1,6 @@
 # govkdoc
 
-Go impl of vk.com api worflow to share uploaded documents
+Go impl of vk.com api workflow to share uploaded documents
 
 Example (auth token required with "docs,wall" permissions)
 
